@@ -14,7 +14,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-  origin: 'https://jobportal1-dv0n.onrender.com/', // Frontend URL
+  origin: 'https://jobportal1-dv0n.onrender.com', // Frontend URL
   methods: 'GET, POST, PUT, DELETE', 
   credentials: true,
 };
