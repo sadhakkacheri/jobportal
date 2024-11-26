@@ -14,9 +14,9 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:5173', // Frontend URL
-  methods: 'GET, POST, PUT, DELETE', // Allow methods you will use
-  credentials: true,  // Allow cookies to be sent
+  origin: 'https://jobportal1-dv0n.onrender.com', // Frontend URL
+  methods: 'GET, POST, PUT, DELETE', 
+  credentials: true,
 };
 app.use(cors(corsOptions));
 
