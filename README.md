@@ -32,7 +32,7 @@ A role-based job portal application designed for recruiters and students. The pl
 # Steps:
 
  1. Clone the repository:
-      - git clone https:[//github.com/Sadhakk/jobPortalWebsite.git](https://github.com/sadhakkacheri/jobportal.git)
+      - git clone :[git clone https://github.com/sadhakkacheri/jobportal.git] (https://github.com/sadhakkacheri/jobportal.git)
       - cd backend
       - npm install
 # Set up your .env file with:
@@ -99,7 +99,7 @@ A role-based job portal application designed for recruiters and students. The pl
 📬 Contact
     💌 Feel free to reach out:
         Email: sadhak9542@gmail.com
-        GitHub: [www.](https://github.com/sadhakkacheri)
+        GitHub: [https://github.com/sadhakkacheri](https://github.com/sadhakkacheri)
 
    🎉 Thank you for checking out the Job Portal!
 
