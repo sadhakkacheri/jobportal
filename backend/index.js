@@ -14,7 +14,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:5173/', // Frontend URL
+  origin: 'http://localhost:5174/', // Frontend URL
   methods: 'GET, POST, PUT, DELETE', 
   credentials: true,
 };
