@@ -106,19 +106,3 @@ A role-based job portal application designed for recruiters and students. The pl
 
 
 
-
-# tell me about yourself ?
-
-Thank you for providing opportunity to introduce myself.my name is srinivasulu .I am from nandyal.i am completed my graduation in computer scicence at santhiram engineering college. I have consistently demonstrated my commitment to academic excellence. 
-In my academic journey,I got 9.3 in 10th class and 9.5 in intermeditae this showcasing my dedication to continuous learning and growth.
-coming to my technical skills include Java, C, HTML, CSS, JavaScript, and Bootstrap a strong knack for problem-solving. I've applied these skills to create projects like Spotify, weather app and a time management app.
-Outside of academics, I'm passionate about cricket and enjoy playing during my free time. I also love reading and writing.
-I'm a focused individual, dedicated to achieving my goals efficiently. I look forward to bringing my skills and enthusiasm to future opportunities. Thank you for your time and consideration…..
-
-
-# Where did you want see next five years ?
-
-- I see myself as a valuable asset to the organization, consistently contributing with creative ideas and skills. 
-- I aim to keep learning, developing new abilities, and discovering innovative solutions that benefit both the company and its clients.
-- My goal is to be a key contributor, making a positive impact on the organization and its customers
-
